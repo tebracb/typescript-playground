@@ -1,0 +1,9 @@
+h1 {
+  display: inline-block;
+}
+
+.chartDiv {
+  width: 70%;
+  position: absolute;
+  right: 0;
+}

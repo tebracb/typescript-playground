@@ -1,0 +1,14 @@
+.buttonsDiv {
+  width: 30%;
+  float: left;
+}
+
+.buttonDrink {
+  display: block;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: rgb(107, 192, 107);
+}
